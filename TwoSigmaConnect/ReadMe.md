@@ -2,4 +2,6 @@
 
 How much interest will a new rental listing on RentHop receive?
 
-Predict users who will visit the new listing 
+Predict users who will visit the new listing.
+
+read.
