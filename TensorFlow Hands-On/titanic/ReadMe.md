@@ -20,6 +20,8 @@ thenn go to the py35 environment created above and install Jupyter notebook
 you can now open the jupyter notebook and run TensorFlow.
 
 
+You can also use docker container to run tensorflow.
+
 
 
 
